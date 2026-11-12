@@ -1,0 +1,1 @@
+{"environment":"development","authentication":"oauth","mcp_url":"http://127.0.0.1:8767/mcp","setup_scopes":["apartments:search"],"mcp_name":"apartment_search","requestTimeoutMs":30000}

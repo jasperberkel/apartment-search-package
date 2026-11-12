@@ -1,0 +1,13 @@
+[build-system]
+requires = ["hatchling>=1.27,<2"]
+build-backend = "hatchling.build"
+
+[project]
+name = "apartment-search"
+version = "0.2.0"
+description = "Persönliche Wohnungssuche für Thomas"
+requires-python = ">=3.11"
+
+[tool.hatch.build.targets.wheel]
+only-include = ["plugins/apartment-search"]
+sources = {"plugins/apartment-search" = "apartment_search"}

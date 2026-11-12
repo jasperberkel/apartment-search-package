@@ -7,8 +7,8 @@
     {
       "name": "apartment-search",
       "source": "./plugins/apartment-search",
-      "version": "0.1.0",
-      "description": "Grundstruktur für ein Paket zur Suche nach Mietwohnungen und Miethäusern."
+      "version": "0.2.0",
+      "description": "Persönliche Mietwohnungssuche mit Suchprofilen und gespeicherten Empfehlungen."
     }
   ]
 }

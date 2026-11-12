@@ -19,3 +19,5 @@ runtime/
 *.log
 __pycache__/
 .venv/
+
+dist/
