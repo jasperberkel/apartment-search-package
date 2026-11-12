@@ -1,0 +1,14 @@
+{
+  "name": "apartment-search-package",
+  "owner": {
+    "name": "Jasper Berkel"
+  },
+  "plugins": [
+    {
+      "name": "apartment-search",
+      "source": "./plugins/apartment-search",
+      "version": "0.1.0",
+      "description": "Grundstruktur für ein Paket zur Suche nach Mietwohnungen und Miethäusern."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "apartment-search-package",
+  "interface": {
+    "displayName": "Apartment Search Package"
+  },
+  "plugins": [
+    {
+      "name": "apartment-search",
+      "source": {
+        "source": "local",
+        "path": "./plugins/apartment-search"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
